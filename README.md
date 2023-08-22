@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/cwfa5v15x643alcj?svg=true)](https://ci.appveyor.com/project/valeri05/hw-api-ci-gkpay)
+[![Build status](https://ci.appveyor.com/api/projects/status/gw2plcsf8762dl7n?svg=true)](https://ci.appveyor.com/project/valeri05/hw-selenium-selenide-awrn0)
